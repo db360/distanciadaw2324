@@ -38,5 +38,7 @@ function multiplicar($num1, $num2) {
     return $num1 * $num2;
 }
 
+// Ésto es un cambio para comprobar como se sincronizan con un nuevo commit
+
 // Esta anotación es solo para desarrolladores y no se mostrará en la documentación final.
 // @internal Esta función está destinada a ser utilizada solo por desarrolladores internos.
